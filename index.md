@@ -22,6 +22,8 @@ Credit card fraud detection is the process of identifying purchase attempts that
 Machine Learning (ML) is already lending a hand in diverse situations in healthcare. ML in healthcare helps to analyze thousands of different data points and suggest outcomes, provide timely risk scores, precise resource allocation, and has many other applications.
 
 
+<img align="center" src="https://github.com/Rajiniparimala/minimal/blob/master/assets/img/machine-learning-healthcare-blog-hero-1200x799.jpeg">
+
 ### Header 3
 
 ```js
