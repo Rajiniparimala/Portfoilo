@@ -13,7 +13,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # CREDIT CARD FRAUD DETECTION
 
 Credit card fraud detection is the process of identifying purchase attempts that are fraudulent and rejecting them rather than processing the order. Credit card fraud is an important issue and incurs a considerable cost for both cardholders and issuing institutions. Contemporary methods apply machine learning-based approaches to detect fraudulent behavior from transaction records. 
-<img src="https://github.com/Rajiniparimala/minimal/blob/master/assets/img/The-Credit-Card-Fraud-Detection-Process.png">
+
+
+<img align= "center" src="https://github.com/Rajiniparimala/minimal/blob/master/assets/img/The-Credit-Card-Fraud-Detection-Process.png">
 
 ##  ML IN HEALTHCARE
 
