@@ -10,15 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# CREDIT CARD FRAUD DETECTION
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Credit card fraud detection is the process of identifying purchase attempts that are fraudulent and rejecting them rather than processing the order. Credit card fraud is an important issue and incurs a considerable cost for both cardholders and issuing institutions. Contemporary methods apply machine learning-based approaches to detect fraudulent behavior from transaction records. 
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+##  ML IN HEALTHCARE
+
+Machine Learning (ML) is already lending a hand in diverse situations in healthcare. ML in healthcare helps to analyze thousands of different data points and suggest outcomes, provide timely risk scores, precise resource allocation, and has many other applications.
+
 
 ### Header 3
 
